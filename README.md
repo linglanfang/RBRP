@@ -2,6 +2,6 @@ Reactivity-Based RNA Profiling (RBRP) pipeline is built based on icSHAPE pipelin
 
 Installation of RBRP pipeline involves two steps:
 
-Step 1. Install and configure icSHAPE pipeline following instruction on https://github.com/qczhang/icSHAPE
+Step 1. Install and configure icSHAPE pipeline following the instructions on https://github.com/qczhang/icSHAPE
 
 Step 2. Copy three scripts <normalizeRTfileScaleFactor1.pl>, <calcRBRPminusCtrl.pl>, and <filterRTstopBD.pl> to /icSHAPE/scripts/ to complete full installation.
