@@ -1,6 +1,4 @@
-Reactivity-Based RNA Profiling
-
-RBRP pipeline is built based on icSHAPE pipeline that was previously published in https://github.com/qczhang/icSHAPE (Nature, 2015, 486–490). RBRP pipeline calculates drug-promoted 2´-OH acylation in RBRP experiments.
+Reactivity-Based RNA Profiling (RBRP) pipeline is built based on icSHAPE pipeline that was previously published in https://github.com/qczhang/icSHAPE (Nature, 2015, 486–490). RBRP pipeline calculates drug-promoted 2´-OH acylation in RBRP experiments.
 
 Installation of RBRP pipeline involves two steps:
 
